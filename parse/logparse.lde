@@ -1,0 +1,11 @@
+Line = 
+    IP(string) ' '
+    UserIdentifier(string) ' '
+    UserID(string) ' '
+    ^'[' Time(string) ']'
+    ^" \"" Method(string) ' '
+    Path(string) ' '
+    Proto(string) '"'
+    ^' ' ResponseCode(int) ' '
+    Size(int)
+;
