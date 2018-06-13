@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/fatih/color"
-	"github.com/hoenigmann/logmon/parse"
+	"github.com/hoenigmann/parse"
 	"github.com/hpcloud/tail"
 	sw "github.com/prep/average"
 )
